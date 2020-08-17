@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="d-flex flex-column">
-                    <img src="/img/about.png" class="img-fluid" alt="Native Delicacies About Us">
+                    <img src="/img/about.png" class="img-fluid" alt="Molly coin Image">
                 </div> 
             </div>
             <div class="col-md-6">    
