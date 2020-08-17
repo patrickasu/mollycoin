@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="d-flex flex-column">
-                    <img src="/img/coin.jpg" class="img-fluid" alt="Molly coin Image">
+                    <img src="/img/coin.png" class="img-fluid" alt="Molly coin Image">
                 </div> 
             </div>
             <div class="col-md-6">    
