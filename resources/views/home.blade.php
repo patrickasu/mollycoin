@@ -5,7 +5,7 @@
     <section class="content-header">
       <h1 style="margin-bottom: 20px;">
         Dashboard
-        <small style="text-muted">Mollycoin</small>
+        <small style="text-muted">MollyCoin</small>
       </h1>
       <ol class="breadcrumb" style="margin-right: 100px;">
         <li><a href="/home"><i class="fa fa-dashboard"></i> </a></li>
