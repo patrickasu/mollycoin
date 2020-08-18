@@ -24,19 +24,19 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                    <a class="nav-link" href=""><span class="active">Home</span></a>
+                    <a class="nav-link" href="/"><span class="active">Home</span></a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="/login">Buy Bitcoin</a>
                     </li>
                      <li class="nav-item">
-                    <a class="nav-link" href="/Register">Trade Now</a>
+                    <a class="nav-link" href="/login">Trade Now</a>
                     </li>
                     {{-- <li class="nav-item">
                     <a class="nav-link" href="/login">Login</a>
                     </li> --}}
                     <li class="nav-item">
-                    <a class="nav-link account" href="register">Create Account</a>
+                    <a class="nav-link account" href="/register">Create Account</a>
                     </li>
                 </ul>
             </div>
@@ -94,9 +94,9 @@
             <div class="col-md-6">    
                 <div class="d-flex flex-column">
                     <h2 class="about">BUY AND SELL BITCOIN</h2>
-                    <p>Phasellus eu vestibulum velit. Ut mollis, nibh id porta porta, nisl neque pulvinar ex, nec faucibus nisi lectus non risus. Donec interdum a lacus at suscipit. Aliquam porta eu libero at pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam a  inceptos himenaeos. Nam a rutrum leo, nec condimentum lectus. inceptos himenaeos. Nam a rutrum leo, nec condimentum lectus. inceptos himenaeos. Nam a rutrum leo, nec condimentum lectus.inceptos himenaeos. Nam a rutrum leo rutrum leo, nec condimentum lectus.</p>
-                    <p>nibh id porta porta phasellus eu vestibulum velit. Ut mollis, nibh id porta porta, nisl neque pulvinar ex, nec faucibus nisi lectus non risus. Donec interdum a lacus at suscipit. Aliquam porta eu libero at pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam a rutrum Vivamus eu eros quis.</p>
-                    <a class="about-btn" href="login">Trade Now</a>
+                    <p>Are you searching for a quick, cheap, and safe way to buy Bitcoins? MollyCoin combines everything one may need from a Bitcoin exchange. Whether you would like to receive some BTC instantly by making a market order or to wait for specific conditions for the order execution with a limit order option, MollyCoin offers a unique and simple solution. There is almost no difference in the way of purchasing. Whether you would buy Bitcoin with credit card or through the bank transfer, it is easy and safe at MollyCoin.</p>
+                    <p>People who would like to get some Bitcoin always look for the most convenient ways to accomplish it. And among the numerous ways to buy Bitcoin instantly, purchase with any kind of payment card is the most widely spread option. At MollyCoin, you can literally use any card issues in any currency. The system will automatically convert your currency into the one supported by the platform. So, you can be sure that your card data are secure.</p>
+                    <a class="about-btn" href="/login">Trade Now</a>
                 </div>   
             </div>
         </div> 
@@ -123,29 +123,29 @@
                  <div class="main">
                     <div class="d-flex flex-row">
                         <div class="secure">
-                            <span class="secure-dsc">$1190</span><br>
-                            <p class="dsc1">0.5 Bitcoins</p>
+                            <span class="secure-dsc">$3.8M</span><br>
+                            <p class="dsc1">Bitcoin Traded</p>
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div>
                     <div class="d-flex flex-row">
                        <div class="secure">
-                             <span class="secure-dsc">$1190</span><br>
-                            <p class="dsc1">1 Bitcoins</p>
+                             <span class="secure-dsc">1.7M</span><br>
+                            <p class="dsc1">Customers +</p>
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div>
                     <div class="d-flex flex-row">
                         <div class="secure">
-                            <span class="secure-dsc">$2900</span><br>
-                            <p class="dsc1">1.2 Bitcoins</p>
+                            <span class="secure-dsc">1.6 Million</span><br>
+                            <p class="dsc1">Wallets Active</p>
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div>
                     <div class="d-flex flex-row">
                         <div class="secure">
-                            <span class="secure-dsc">$4895</span><br>
-                            <p class="dsc1">2 Bitcoins</p>
+                            <span class="secure-dsc">26 +</span><br>
+                            <p class="dsc1">Countries</p>
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div> 
