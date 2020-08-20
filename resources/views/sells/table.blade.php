@@ -1,44 +1,8 @@
 <div class="col-md-5">
   <h2>Sell Bitcoin easily</h2> 
   <p style="font-size: 16px;">Sell and investyour bitcoin in minutes using your credit card, bank transfer, digital currency or CashApp.</p> 
-    <!-- Button to Open the Modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-        Sell Now
-    </button>
-
-    <!-- The Modal -->
-    <div class="modal" id="myModal">
-        <div class="modal-dialog">
-            <div class="modal-content">
-
-            <!-- Modal Header -->
-            <div class="modal-header">
-                <h4 class="modal-title">Sell BTC</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-
-            <!-- Modal body -->
-            <div class="modal-body">
-                <form action="/action_page.php">
-                    <span style="font-size:23px">
-                        <label for="quantity">Amount:</label>
-                        <input type="number" style="width: 30%" id="quantity" name="quantity">
-                        {{-- <button>Continue</button> --}}
-                        <!-- Start WebsiteAlive Text Code ID: 25069 -->
-                        <a href="javascript:void(0)" onclick="window.open('https://c1.websitealive.com/23713/visitor/window/?code_id=25069&dl='+escape(document.location.href),'wsa_23713_0','height=200,width=200')"/>Continue</a>
-                        <!-- End WebsiteAlive Text Code -->
-                    </span>
-                </form>
-            </div>
-
-            <!-- Modal footer -->
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-            </div>
-
-            </div>
-        </div>
-    </div>
+    <!-- Button to Open the Modal --> 
+    <a href="https://direct.lc.chat/12153495" target="_blank">Sell Now</a>
 </div>
 <div class="col-md-7">
   <img src="https://assets.coinbase.com/assets/earn-upsell-desktop.dad0f473399e16fa8c176a9599c883ea.webp" style="width: 100%; height: 280px; object-fit: contain;" alt="bitcoin image"> 

@@ -2,42 +2,7 @@
   <h2>Buy Bitcoin easily</h2> 
   <p style="font-size: 16px;">Buy and invest in minutes using your credit card, bank transfer, digital currency or CashApp.</p> 
     <!-- Button to Open the Modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-        Buy Now
-    </button>
-
-    <!-- The Modal -->
-    <div class="modal" id="myModal">
-        <div class="modal-dialog">
-            <div class="modal-content">
-
-            <!-- Modal Header -->
-            <div class="modal-header">
-                <h4 class="modal-title">Buy BTC</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-
-            <!-- Modal body -->
-            <div class="modal-body">
-                <form action="/action_page.php">
-                    <span style="font-size:20px">
-                        <label for="quantity">Wallet address</label>
-                        <input type="text" style="padding: 7px; display: block; width: 70%; border-radius: 5px; margin-bottom: 10px;" id="quantity" name="quantity" min="10" max="20" placeholder="Enter your BTC wallet address">
-                        <!-- Start WebsiteAlive Text Code ID: 25069 -->
-                        <a href="javascript:void(0)" onclick="window.open('https://c1.websitealive.com/23713/visitor/window/?code_id=25069&dl='+escape(document.location.href),'wsa_23713_0','height=200,width=200')"/>Continue</a>
-                        <!-- End WebsiteAlive Text Code -->
-                    </span>
-                </form>
-            </div>
-
-            <!-- Modal footer -->
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-            </div>
-
-            </div>
-        </div>
-    </div>
+    <a href="https://direct.lc.chat/12153495" target="_blank">Buy Now</a>
 </div>
 <div class="col-md-7">
   <img src="https://buy.bitcoin.com/images/uploads/coins@2x.png" style="width: 100%; height: 280px; object-fit: contain;" alt="bitcoin image"> 
