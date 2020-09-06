@@ -1,14 +1,41 @@
 <div class="col-md-5">
-  <h2>Sell Bitcoin easily</h2> 
-  <p style="font-size: 16px;">Sell and investyour bitcoin in minutes using your credit card, bank transfer, digital currency or CashApp.</p> 
+  <h2>Step 1</h2> 
+  <p style="font-size: 16px;">Transfer btc to our Wallet.</p> 
     <!-- Button to Open the Modal --> 
-    <a href="https://direct.lc.chat/12153495" target="_blank">Sell Now</a>
+    <div>
+        <a href="https://commerce.coinbase.com/checkout/5fef9824-d305-4f14-b013-e90932a49704" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank">Transfer Bitcoin</a>
+    </div>
 </div>
-<div class="col-md-7">
+{{-- <div class="col-md-7">
   <img src="https://assets.coinbase.com/assets/earn-upsell-desktop.dad0f473399e16fa8c176a9599c883ea.webp" style="width: 100%; height: 280px; object-fit: contain;" alt="bitcoin image"> 
+</div> --}}
+<div class="col-md-7">
+  <img src="https://assets.ngcard.store/g/btc/qrcode.png" style="width: 100%; height: 280px; object-fit: contain; margin-bottom: 60px;" alt="bitcoin image"> 
 </div>
 
-<div class="col-md-12" style="text-align: center;">
+<div class="col-md-5">
+  <h2>Step 2</h2> 
+  <p style="font-size: 16px;">Contact with us in WhatsApp. Send us the Receipt of your BTC Transfer. Provide Your Bank Account Details.</p> 
+    <!-- Button to Open the Modal --> 
+    <div>
+        <a href="https://api.whatsapp.com/send?phone=08182256436" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank">Contact in WhatsApp</a>
+    </div>
+</div>
+{{-- <div class="col-md-7">
+  <img src="https://assets.coinbase.com/assets/earn-upsell-desktop.dad0f473399e16fa8c176a9599c883ea.webp" style="width: 100%; height: 280px; object-fit: contain;" alt="bitcoin image"> 
+</div> --}}
+<div class="col-md-7">
+  <img src="https://assets.ngcard.store/g/btc/contact.png" style="width: 100%; height: 280px; margin-bottom: 60px; object-fit: contain;" alt="bitcoin image"> 
+</div>
+
+<div class="col-md-5">
+  <h2>Step 3</h2> 
+  <p style="font-size: 16px;">After checked the transfer, We will pay naira to your Bank account.</p>
+  <p class="text-muted">* The minimum amount is 50 USD</p> 
+  <p class="text-muted">* we will not pay if your transfer amount is less than 50 USD.</p> 
+</div>
+
+<div class="col-md-12" style="text-align: center; margin-top: 30px;">
     <h2>MollyCoin your secure BTC Plug </h2>
     <p>MollyCoin is very popular in the cryptocurrency space and has had extensive coverage in many famous magazines. <br> One of our missions is to build 100 schools in Africa. Check out the video below to learn more about how to secure your bitcoin.</p>
 </div>

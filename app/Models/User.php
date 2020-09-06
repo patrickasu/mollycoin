@@ -35,6 +35,8 @@ class User extends Model
         'email',
         'email_verified_at',
         'password',
+        'verifyToken',
+        'status',
         'remember_token'
     ];
 
@@ -49,6 +51,8 @@ class User extends Model
         'email' => 'string',
         'email_verified_at' => 'datetime',
         'password' => 'string',
+        'verifyToken' => 'string',
+        'status' => 'boolean',
         'remember_token' => 'string'
     ];
 
@@ -62,6 +66,8 @@ class User extends Model
         'email' => 'required|string|max:255',
         'email_verified_at' => 'nullable',
         'password' => 'required|string|max:255',
+        'verifyToken' => 'nullable',
+        'status' => 'nullable',
         'remember_token' => 'nullable|string|max:100',
         'deleted_at' => 'nullable',
         'created_at' => 'nullable',
