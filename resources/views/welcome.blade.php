@@ -122,13 +122,6 @@
             <div class="d-flex flex-column">
                  <div class="main">
                     <div class="d-flex flex-row">
-                        <div class="secure">
-                            <span class="secure-dsc">$3.8M</span><br>
-                            <p class="dsc1">Bitcoin Traded</p>
-                            {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
-                        </div>
-                    </div>
-                    <div class="d-flex flex-row">
                        <div class="secure">
                              <span class="secure-dsc">1.7M</span><br>
                             <p class="dsc1">Customers +</p>
@@ -137,8 +130,8 @@
                     </div>
                     <div class="d-flex flex-row">
                         <div class="secure">
-                            <span class="secure-dsc">1.6 Million</span><br>
-                            <p class="dsc1">Wallets Active</p>
+                            <span class="secure-dsc">$3.8M</span><br>
+                            <p class="dsc1">Bitcoin Traded</p>
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div>
@@ -149,17 +142,17 @@
                             {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
                         </div>
                     </div> 
+                    <div class="d-flex flex-row">
+                        <div class="secure">
+                            <span class="secure-dsc">1.6 Million</span><br>
+                            <p class="dsc1">Wallets Active</p>
+                            {{-- <a href="/reservations" class="buy">BUY NOW</a> --}}
+                        </div>
+                    </div>
                 </div>
             </div>
     </div>
 </div>
-
-
-
-
-
-
-
 <div class="about-section3"> 
     <div class="container-fluid">
         <div class="row">
@@ -200,47 +193,51 @@
         </div> 
     </div>
 </div>
-    <div class="copyright">
+    {{-- <div class="copyright">
         <p class="copyright-desc">&copy; Copyright 2020 <span class="copyright-span"> Developed by Patrick Asu</p></span>
+    </div> --}}
+    <footer>
+    <div class="footer-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
+                    <h3 class="footer-header1">Headquarters</h3>
+                    <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum.</p>
+                    <p class="footer-dsc">Email: mollycoin@gmail.com <br> Contact: 08182256436<p>
+                    <p class="footer-dsc"><p>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
+                    <h3 class="footer-header2">Our Services</h3>
+                    <ul class="footer-ul">
+                        <li class="footer-li"><a class="footer-link" href="/login">Trade Now</a></li>
+                        <li class="footer-li"><a class="footer-link" href="/login">Buy Bitcoin</a></li>
+                        <li class="footer-li"><a class="footer-link" href="/login">Become a Vendor</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 segment-three">
+                    <h3 class="footer-header3">Follow Us</h3>
+                    <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum. Ut ac hendrerit est.</p>
+                    <i class="fab fa-facebook-square"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-linkedin"></i>
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-12 segment-four">
+                    <h3 class="footer-header4">Our Newletter</h3>
+                    <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum. Ut ac hendrerit est.</p>
+                    <form action="">
+                        <input type="email" placeholder="Enter your email">
+                        <input class="submit" type="submit" value="subscribe">
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
+    <p class="footer-bottom-text">All Right Reserved Developed by &copy Patrick Asu 2020</p>
+</footer>
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    {{-- <script>
-        function initFreshChat() {
-            window.fcWidget.init({
-            token: "7573b7f1-6c1b-49c3-a4b4-38dae2c8aca1",
-            host: "https://wchat.freshchat.com"
-            });
-        }
-        function initialize(i,t){var e;i.getElementById(t)?initFreshChat():((e=i.createElement("script")).id=t,e.async=!0,e.src="https://wchat.freshchat.com/js/widget.js",e.onload=initFreshChat,i.head.appendChild(e))}function initiateCall(){initialize(document,"freshchat-js-sdk")}window.addEventListener?window.addEventListener("load",initiateCall,!1):window.attachEvent("load",initiateCall,!1);
-    </script> --}}
-    <!-- Start WebsiteAlive AliveTracker Code -->
-    {{-- <script type="text/javascript">
-        function wsa_include_js(){
-        var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-        var js = document.createElement("script");
-        js.setAttribute("language", "javascript");
-        js.setAttribute("type", "text/javascript");
-        js.setAttribute("src",wsa_host + "tracking-v3.websitealive.com/3.0/?objectref=c1&groupid=23713&websiteid=0");
-        document.getElementsByTagName("head").item(0).appendChild(js);
-        }
-        if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
-        else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
-        else {document.addEventListener("load", wsa_include_js, false);}
-    </script> --}}
-    <!-- End WebsiteAlive AliveTracker v3.0 Code -->
-
-
-
-    <!-- Start of LiveChat (www.livechatinc.com) code -->
-<script>
-    window.__lc = window.__lc || {};
-    window.__lc.license = 12153495;
-    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
-</script>
-<noscript><a href="https://www.livechatinc.com/chat-with/12153495/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
-<!-- End of LiveChat code -->
-
-  </body>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>  
+</body>
 </html>
