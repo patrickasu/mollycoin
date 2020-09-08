@@ -456,6 +456,14 @@ html, body
     padding-bottom: 50px;
 }
 
+.buying-rate{
+  text-align: center;
+  text-transform: uppercase;
+  color: #4e6ef7;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
 /* Footer */
 .footer-dsc{
   color: #999;

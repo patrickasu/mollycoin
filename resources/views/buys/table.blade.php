@@ -3,7 +3,7 @@
   {{-- <p style="font-size: 16px;">Buy and invest in minutes using your credit card, bank transfer, digital currency or CashApp.</p> --}}
   <p style="font-size: 16px;">We buy your Coins & Pay you in Naira to any Bank Account in 5 minutes (Bulk preferable)</p><br>
     <div>
-        <a href="https://api.whatsapp.com/send?phone=08182256436" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank"> CHAT WITH US ON WHATSAPP NOW</a>
+        <a href="https://api.whatsapp.com/message/YW2ZZTVHKISEF1" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank"> CHAT WITH US ON WHATSAPP NOW</a>
     </div>
     <!-- Button to Open the Modal -->
     {{-- <a href="https://direct.lc.chat/12153495" target="_blank">Buy Now</a> --}}

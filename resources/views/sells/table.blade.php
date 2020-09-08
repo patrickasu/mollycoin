@@ -18,7 +18,7 @@
   <p style="font-size: 16px;">Contact with us in WhatsApp. Send us the Receipt of your BTC Transfer. Provide Your Bank Account Details.</p> 
     <!-- Button to Open the Modal --> 
     <div>
-        <a href="https://api.whatsapp.com/send?phone=08182256436" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank">Contact in WhatsApp</a>
+        <a href="https://api.whatsapp.com/message/YW2ZZTVHKISEF1" style="background-color: #3c8dbc; color: #fff; padding: 10px 10px; border-radius: 10px;" target="blank">Contact in WhatsApp</a>
     </div>
 </div>
 {{-- <div class="col-md-7">
