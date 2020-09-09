@@ -5,7 +5,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
                         <h3 class="footer-header1">Headquarters</h3>
                         <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum.</p>
-                        <p class="footer-dsc">Email: mollycoin@gmail.com <br> Contact: 08182256436<p>
+                        <p class="footer-dsc">Email: mollycoin@gmail.com <br> Contact: 09030434353<p>
                         <p class="footer-dsc"><p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
