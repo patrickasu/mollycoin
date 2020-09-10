@@ -103,12 +103,15 @@ html, body
 }
 
 .bitcoin-main-header{
-  font-size: 40px;
+  font-size: 27px;
   text-align: center;
   font-weight: bold;
   font-family: 'Lato';
-  color: #000;
+  color: #232323;
+  text-transform: uppercase;
+  font-weight: 700;
 }
+
 
 .about{
   font-family:'Roboto';

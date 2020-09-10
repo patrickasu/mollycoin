@@ -21,6 +21,8 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/rate', 'RateController@rate');
+Route::get('/vendor', 'VendorController@vendor');
+Route::get('/cashapp', 'VendorController@cashapp');
 Route::get('/verifyEmailFirst', 'Auth\RegisterController@verifyEmailFirst')->name('verifyEmailFirst');
 
 

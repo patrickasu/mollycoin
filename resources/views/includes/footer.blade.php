@@ -3,9 +3,9 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
-                        <h3 class="footer-header1">Headquarters</h3>
-                        <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum.</p>
-                        <p class="footer-dsc">Email: mollycoin@gmail.com <br> Contact: 09030434353<p>
+                        <h3 class="footer-header1">Information</h3>
+                        <p class="footer-dsc">We’d love to hear from you. You can call or reach us on the following</p>
+                        <p class="footer-dsc">Email: info@mollycoin.com <br> Contact: 09030434353<p>
                         <p class="footer-dsc"><p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
@@ -18,15 +18,14 @@
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-three">
                         <h3 class="footer-header3">Follow Us</h3>
-                        <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum. Ut ac hendrerit est.</p>
-                        <i class="fab fa-facebook-square"></i>
+                        <p class="footer-dsc">We're on social media and we'd love you to give us a follow. Connect and have a conversation with us.</p>
+                        <a href="https://m.facebook.com/mollycoinplug" target="blank"><i class="fab fa-facebook-square"></i></a>
                         <i class="fab fa-twitter"></i>
                         <i class="fab fa-instagram"></i>
-                        <i class="fab fa-linkedin"></i>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-four">
                         <h3 class="footer-header4">Our Newletter</h3>
-                        <p class="footer-dsc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec leo et urna elementum interdum. Ut ac hendrerit est.</p>
+                        <p class="footer-dsc">What's happening? Keep up to date on the latest by subscribing to our<br> e-newsletter.</p>
                         <form action="">
                             <input type="email" placeholder="Enter your email">
                             <input class="submit" type="submit" value="subscribe">
