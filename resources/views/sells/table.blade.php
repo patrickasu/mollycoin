@@ -39,9 +39,8 @@
     <h2>MollyCoin your secure BTC Plug </h2>
     <p>MollyCoin is very popular in the cryptocurrency space and has had extensive coverage in many famous magazines. <br> One of our missions is to build 100 schools in Africa. Check out the video below to learn more about how to secure your bitcoin.</p>
 </div>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/nzJDsP9L6DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+{{-- <iframe width="100%" height="480" src="https://www.youtube.com/embed/nzJDsP9L6DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/HhDwq0feBTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

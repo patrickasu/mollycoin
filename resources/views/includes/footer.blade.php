@@ -5,7 +5,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
                         <h3 class="footer-header1">Information</h3>
                         <p class="footer-dsc">We’d love to hear from you. You can call or reach us on the following</p>
-                        <p class="footer-dsc">Email: info@mollycoin.com <br> Contact: 09030434353<p>
+                        <p class="footer-dsc">Email: infomollycoin@gmail.com <br> Contact: 09030434353<p>
                         <p class="footer-dsc"><p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12 segment-two">

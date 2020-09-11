@@ -1,5 +1,5 @@
 <div class="col-md-5">
-  <h2>Buy Bitcoin easily</h2> 
+  <h2>Sell Bitcoin easily</h2> 
   {{-- <p style="font-size: 16px;">Buy and invest in minutes using your credit card, bank transfer, digital currency or CashApp.</p> --}}
   <p style="font-size: 16px;">We buy your Coins & Pay you in Naira to any Bank Account in 5 minutes (Bulk preferable)</p><br>
     <div>
@@ -19,8 +19,8 @@
     <h2>MollyCoin your secure BTC Plug </h2>
     <p>MollyCoin is very popular in the cryptocurrency space and has had extensive coverage in many famous magazines. <br> One of our missions is to build 100 schools in Africa. Check out the video below to learn more about how to secure your bitcoin.</p>
 </div>
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/nzJDsP9L6DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{{-- <iframe width="100%" height="480" src="https://www.youtube.com/embed/nzJDsP9L6DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/fdHe8fu4AXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{-- <div class="table-responsive">
     <table class="table" id="buys-table">
         <thead>

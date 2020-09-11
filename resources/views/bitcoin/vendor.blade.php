@@ -3,7 +3,7 @@
 @section('content')
     <div class="vendor" style="font-size: 16px; padding: 30px;">
         <h1>Become a Vendor</h1>
-        <p>Be A Vendor MollyCoin will be able to give you better deals for creating a offers for our bitcoins services when you are verified on MollyCoin!.. <br>Kindly send all this to our email info@mollycoin.com</p>
+        <p>Be A Vendor MollyCoin will be able to give you better deals for creating a offers for our bitcoins services when you are verified on MollyCoin!.. <br>Kindly send all this to our email infomollycoin@gmail.com</p>
     </div>
     <div class="vendor" style="font-size: 16px; padding-left: 30px;">
         <h1>ID verification<h1>
@@ -16,6 +16,7 @@
         * It must not be edited or censored in any way. <br>
         * To be verified within few minutes the country and ID type should be selected correctly. <br>
         <hr>
-        <p>ID Note: Your provided government issued should be same name as the One your profile Kindly send all this to our email info@mollycoin.com. <br> We will get back to you back in 45hours..</p>
+        <p>ID Note: Your provided government issued should be same name as the One your profile Kindly send all this to our email infomollycoin@gmail.com. <br> We will get back to you back in 45hours..</p>
     </div>
+    <iframe width="100%" height="480"style="margin-top: 40px;" src="https://www.youtube.com/embed/WSKZbhbi3A4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 @endsection
